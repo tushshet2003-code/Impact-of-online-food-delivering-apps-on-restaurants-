@@ -17,8 +17,18 @@
 > Collected data from multiple restaurants across Hubballi city
 > Interacted with the owners, managers of the restaurants and collected structured data.
 |
-> # What I did?
->  Cleaned and organized raw survey data in Microsoft Excel.
+# What I did?
+>  Cleaned and organized raw survey data in Microsoft Excel. And it includes:
+- Index 
+- Start and End 
+- Name of the restaurant 
+- Year of establishment of the restaurant
+- In which online app are they registered
+- if not, why arent they registered in any of the apps
+- how much do they spend weekly on raw materials on an average 
+- how many employees do they have?
+- Are you facing any problems using online delivering apps?
+- What are their suggestions for these apps.
 >  Analyzed data to surface key business trends and patterns.
 >  Prepared a comprehensive findings report with actionable recommendations.
 >  Presented insights and business implications to faculty.
