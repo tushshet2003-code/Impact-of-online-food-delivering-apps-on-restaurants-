@@ -1,5 +1,4 @@
 # Impact-of-online-food-delivering-apps-on-restaurants-
-|
 # Project overview 
 > A primary research study analyzing the impact of online food delivering apps i.e zomato and swiggy on 22 restaurants situated in Hubli city.
 > Duration: June 2024 - August 2024
