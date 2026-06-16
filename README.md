@@ -34,9 +34,6 @@
 > Impact of online food delivering apps on restaurants ().pdf
   Final report with recommendations.
 |
-# Screenshots
-> Dashboard and chart visuals
-|
 #  Tools & Skills Demonstrated
 > `Microsoft Excel` `MS Word` `KoboCollect` `Data Cleaning` 
 `Survey Design` `Data Analysis` `Business Insights` `Report Writing`
